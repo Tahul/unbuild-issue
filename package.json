@@ -1,0 +1,14 @@
+{
+  "name": "unbuild-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "unbuild"
+  },
+  "author": "Yaël GUILLOUX",
+  "license": "ISC",
+  "devDependencies": {
+    "unbuild": "^0.5.11"
+  }
+}
